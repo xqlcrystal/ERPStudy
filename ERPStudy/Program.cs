@@ -9,6 +9,7 @@ namespace ERPStudy
     {
         static void Main(string[] args)
         {
+            WCF.WCFBindings.ShowBindingInfo();
         }
     }
 }
